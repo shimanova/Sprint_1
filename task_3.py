@@ -13,3 +13,4 @@ if country in world_champions.values():
    print(f'{country} становилась чемпионом мира по футболу в 21 веке!')
 else:
    print(f'{country} не выигрывала чемпионат мира по футболу в 21 веке.')
+    
