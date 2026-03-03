@@ -15,4 +15,4 @@ for time_value in time_values:
             seconds = int(part.replace('s', ''))
             current_minutes += seconds // 60
     total_minutes += current_minutes
-print(f'Общее количество минут: {total_minutes}') 
+print(f'Общее количество минут: {total_minutes}')
